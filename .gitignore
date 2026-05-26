@@ -1,0 +1,21 @@
+# File sistem
+.DS_Store
+Thumbs.db
+
+# File IDE
+.vscode/
+.idea/
+
+# File Python
+__pycache__/
+*.pyc
+*.pyo
+*.env
+
+# File Node.js
+node_modules/
+npm-debug.log
+
+# File hasil build
+/dist
+/build
